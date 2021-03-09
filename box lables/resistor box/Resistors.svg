@@ -14,7 +14,7 @@
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
    sodipodi:docname="Resistors.svg"
-   inkscape:export-filename="C:\Users\Yehor\Desktop\box labels\Resistors.png"
+   inkscape:export-filename="D:\GitHub\Electronics-illustations\box lables\resistor box\with_frame.png"
    inkscape:export-xdpi="600"
    inkscape:export-ydpi="600">
   <defs
@@ -740,7 +740,7 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
      inkscape:cx="255.0046"
@@ -761,7 +761,8 @@
      inkscape:snap-text-baseline="true"
      inkscape:snap-center="true"
      inkscape:snap-to-guides="true"
-     inkscape:snap-intersection-paths="true">
+     inkscape:snap-intersection-paths="true"
+     inkscape:pagecheckerboard="true">
     <inkscape:grid
        type="xygrid"
        id="grid833"
@@ -3253,7 +3254,9 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="resistors image">
+     inkscape:label="resistors image"
+     sodipodi:insensitive="true"
+     style="display:inline">
     <g
        id="g11736"
        transform="matrix(0.39433907,0,0,0.39433907,15.479953,18.341131)">
